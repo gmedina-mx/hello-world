@@ -1,0 +1,4 @@
+Hello World! :)
+Another line as created using right arrow!!! :/
+A new line was created using left arrow! :)
+Vi test filetithis how do you know you are in insert mode ¿impossible to know the state of things?
